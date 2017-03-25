@@ -1,0 +1,29 @@
+{
+  "name": "capital_one_bas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakeshdas1/CapitalOneHackathon.git"
+  },
+  "author": "Rakesh Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakeshdas1/CapitalOneHackathon/issues"
+  },
+  "homepage": "https://github.com/rakeshdas1/CapitalOneHackathon#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "formidable": "^1.1.1",
+    "https": "^1.0.0",
+    "moment": "^2.18.1",
+    "querystring": "^0.2.0",
+    "request": "^2.81.0"
+  }
+}
